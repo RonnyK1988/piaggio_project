@@ -15,7 +15,7 @@ include "inc/registration.inc.php";
         src="https://code.jquery.com/jquery-3.2.1.min.js"
         integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
         crossorigin="anonymous"></script>
-        <script src="js/login_register.js" async></script>
+        <script src="js/login_register.js" defer></script>
         <title>Login/Register at Piaggio</title>
     </head>
     <body id="contact-body">
